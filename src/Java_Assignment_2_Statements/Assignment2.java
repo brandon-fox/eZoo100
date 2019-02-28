@@ -1,11 +1,12 @@
 package Java_Assignment_2_Statements;
 
-public class Assignment1 {
+public class Assignment2 {
     public static void main(String[] args){
-        int number = 0;
+        int x = 10;
         //noinspection ConstantConditions
-        if (number % 2 == 0) {
-            System.exit(0);
+        if (x >= 3){
+            System.out.println("x is greater than 3");
         }
+
     }
 }
