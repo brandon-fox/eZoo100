@@ -1,3 +1,5 @@
+package Java_Assignment_1_Introduction;
+
 public class Assignment10 {
     public static void main(String[] args) {
         @SuppressWarnings("MismatchedReadAndWriteOfArray") String[] arr = new String[5];

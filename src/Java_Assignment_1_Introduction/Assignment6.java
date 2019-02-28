@@ -1,3 +1,5 @@
+package Java_Assignment_1_Introduction;
+
 public class Assignment6 {
     public static void main(String[] args) {
         double[] array = new double[2];
